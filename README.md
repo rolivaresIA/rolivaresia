@@ -1,4 +1,20 @@
-<h2 align="left">¡Hola 👋, bienvenido a mi perfil de Github!</h2>
+<h2 align="left">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, bienvenido a mi Github!</h2>
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/rodolivaresa/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  <a href="mailto:rodolivares1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://www.instagram.com/fitolivares/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
+</a>
+  
+</div>
 
 ###
 
