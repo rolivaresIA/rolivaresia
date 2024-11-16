@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy Rodolfo, Data Analyst y actualmente encaminándome a ser un Data Scientist. Apasionado por transformar datos en insights y soluciones innovadoras. Soy una persona bastante curiosa que siempre busca cosas nuevas por aprender. Con un perfil analítico, actualmente estoy formando y especializándome en Modelos Predictivos, Machine Learning y distintas herramientas que tienen relación con la Inteligencia Artificial.</p>
+<p align="left">Soy Rodolfo, Data Analyst y actualmente encaminándome a ser un Data Scientist. Apasionado por transformar datos en insights y soluciones innovadoras. Soy una persona bastante curiosa que siempre busca cosas nuevas por aprender. Con un perfil analítico, actualmente me estoy formando y especializando en Modelos Predictivos, Machine Learning y distintas herramientas que tienen relación con la Inteligencia Artificial.</p>
 
 ###
 
