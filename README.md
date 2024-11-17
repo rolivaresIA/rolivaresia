@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🚀Creamos lo que creemos <br>🎯 Buscando nuevos retos profesionales<br>💻 Habilidades: R, Python, SQL, Power BI, HTML, entre otras<br>⚽ Me encantan los deportes, principalmente el futbol, motocross y snowboard <br>📫 Puedes preguntarme lo que sea: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
+<p align="left">🎯 Buscando nuevos retos profesionales: Puedes descargar mi CV en este [link](https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf) <br>💻 Habilidades: R, Python, SQL, Power BI, HTML, entre otras<br>⚽ Me encantan los deportes, principalmente el futbol, motocross y snowboard <br>📫 Puedes preguntarme lo que sea: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
 
 ###
 
