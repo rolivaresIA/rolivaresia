@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">Soy Rodolfo, Data Analyst y actualmente encaminándome a ser un Data Scientist. Apasionado por transformar datos en insights y soluciones innovadoras. Soy una persona bastante curiosa que siempre busca cosas nuevas por aprender. Con un perfil analítico, actualmente me estoy formando y especializando en Modelos Predictivos, Machine Learning y distintas herramientas que tienen relación con la Inteligencia Artificial.</p>
+<p align="left">I’m Rodolfo, a Data Analyst currently on the path to becoming a Data Scientist. Originally from Chile and currently living in Australia. I’m passionate about transforming data into meaningful insights and innovative solutions. I’m a naturally curious person, always eager to learn new things and explore emerging technologies. With a strong analytical profile, I have hands-on experience solving real-world problems across industries such as automotive, telecommunications, and insurance. At present, I’m focused on developing and deepening my expertise in predictive modeling, Machine Learning, and a variety of tools related to Artificial Intelligence.</p>
 
 ###
 
-<p align="left">🎯 Buscando nuevos retos profesionales: Puedes descargar mi CV en este <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf" target="blank">link</a> <br>💻 Habilidades: R, Python, SQL, Power BI, HTML, entre otras<br>⚽ Me encantan los deportes, principalmente el futbol, motocross y snowboard <br>📫 Puedes preguntarme lo que sea: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
+<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br> <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
 
 ###
 
