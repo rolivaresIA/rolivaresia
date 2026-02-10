@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, bienvenido a mi Github!</h1>
+<h1 align="center">¡Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, welcome to my Github!</h1>
 
 <div id="badges", align="center">
 <a href="https://www.linkedin.com/in/rodolivaresa/">
@@ -16,7 +16,7 @@
   
 </div>
 
-<h3 align="left">Sobre mí 😎 </h3>
+<h3 align="left">About me 😎 </h3>
 
 ###
 
