@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
+<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares%20(ENG2026).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
 
 ###
 
