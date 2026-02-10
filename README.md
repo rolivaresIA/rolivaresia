@@ -24,19 +24,27 @@
 
 ###
 
-<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br> <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
+<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares(ESP2024).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
 
 ###
 
-<h2 align="left">Más utilizados:</h2>
+<h2 align="left">Most used:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" height="40" alt="looker studio logo" />
 </div>
+
 
 <div align="center">
 <h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
