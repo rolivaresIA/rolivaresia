@@ -41,8 +41,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform logo" />
   <img width="12" />
-
-  <img src="https://brandlogos.net/wp-content/uploads/2023/09/looker-studio-logo.png" height="40" alt="Looker Studio logo" />
 </div>
 
 
