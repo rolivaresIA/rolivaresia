@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" height="40" alt="looker studio logo" />
+  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" height="40" alt="looker studio logo" />
 </div>
 
 
