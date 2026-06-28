@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/rodolivaresa/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-  <a href="mailto:rodolivares1@gmail.com">
+  <a href="mailto:rolivaresal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 <a href="https://www.instagram.com/fitolivares/">
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="https://raw.githubusercontent.com/rolivaresIA/Curriculum/main/CV%20Rodolfo%20Olivares%20(ENG2026).pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
+<p align="left">🎯 Open to new professional challenges. You can download my CV here <a href="assets/Resume%20Rodolfo%20Olivares.pdf" target="blank">link</a> <br>💻 Skills: Python, R, SQL, Looker Studio, Power BI, Tableau, HTML, Web Scraping, among others. <br> 🤖 Experience working with Google Cloud Platform (GCP), particularly SQL-based data solutions, and applied Artificial Intelligence. <br>⚽ I’m passionate about sports, especially football (soccer), motocross, and snowboarding.<br>📫 You can ask me: <a href="mailto:yijie0575@gmail.com">rodolivares1@gmail.com</a> </p>
 
 ###
 
