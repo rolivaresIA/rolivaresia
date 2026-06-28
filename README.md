@@ -26,7 +26,7 @@
 
 <p align="left">
 🎯 Open to new professional challenges. You can download my CV here
-<a href="https://github.com/rolivaresIA/Curriculum/raw/main/resume-rodolfo-olivares.pdf" target="_blank">
+<a href="https://github.com/rolivaresIA/Curriculum/raw/main/Resume%20Rodolfo%20Olivares.pdf" target="_blank">
 link
 </a>
 <br>
