@@ -1,6 +1,6 @@
 # Hi, I'm Rodolfo Olivares
 
-**Data Analyst | Data Science**: churn analytics, KPI design, A/B testing and machine learning.
+**Data Analyst & Data Scientist**: applied data science and analytics for telecom, finance and industry (churn analytics, KPI design, A/B testing and machine learning).
 
 I'm a Chilean industrial engineer with a postgraduate diploma in **Data Science** and in **Artificial Intelligence** (Pontificia Universidad Católica de Chile). I have worked in telecommunications, financial services and heavy-equipment distribution, building SQL, Python and R pipelines, dashboards and models that turn data into decisions.
 
