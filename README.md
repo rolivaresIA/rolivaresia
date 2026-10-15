@@ -1,4 +1,4 @@
-# Hi, I'm Rodolfo Olivares 👋🏻
+# Hi, I'm Rodolfo Olivares
 
 **Data Analyst | Data Science**: churn analytics, KPI design, A/B testing and machine learning.
 
