@@ -1,10 +1,10 @@
 # Hi, I'm Rodolfo Olivares
 
-**Data Analyst & Data Scientist**: applied data science and analytics for telecom, finance and heavy equipment (churn analytics, KPI design, A/B testing and machine learning).
+**Data & Business Analyst**: analytics across financial services, telecom and heavy equipment (churn analytics, KPI design, A/B testing and machine learning), with a strong interest in banking, investments and fintech.
 
 I'm a Chilean industrial engineer with a postgraduate diploma in **Data Science** and in **Artificial Intelligence** (Pontificia Universidad Católica de Chile). I have worked in telecommunications, financial services and heavy-equipment distribution, building SQL, Python and R pipelines, dashboards and models that turn data into decisions.
 
-I'm currently in **Australia** and **open to data analyst and data science roles** (Working Holiday visa, subclass 462, full work rights).
+I'm currently in **Australia** and **open to data analyst, business analyst and data science roles** (especially financial services) (Working Holiday visa, subclass 462, full work rights).
 
 [LinkedIn](https://www.linkedin.com/in/rodolivaresa/) | [Email](mailto:rolivaresal@gmail.com) | [Portfolio](https://rolivaresia.github.io/) | [CV (PDF)](https://github.com/rolivaresIA/Curriculum/raw/main/Rodolfo_Olivares_CV.pdf)
 
@@ -23,6 +23,7 @@ More: [School dropout analysis (R + Power BI)](https://github.com/rolivaresIA/Sc
 **Languages and analysis:** SQL (BigQuery), Python (pandas, scikit-learn), R (tidyverse, ggplot2), Excel/VBA
 **BI and visualisation:** Power BI, Looker Studio, Tableau
 **Data and cloud:** Google Cloud Platform (BigQuery), data pipelines, Git
+**Business:** business analysis, stakeholder management, process automation, financial services
 **Analytics:** A/B testing, statistical analysis, machine learning, KPI design, predictive modelling
 
 > Projects that use company data are built on, or accompanied by, **synthetic data**: the original data is confidential. Each repository says which numbers are real and which come from synthetic data.
