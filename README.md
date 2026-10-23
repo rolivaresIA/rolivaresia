@@ -4,7 +4,7 @@
 
 I'm a Chilean industrial engineer with a postgraduate diploma in **Data Science** and in **Artificial Intelligence** (Pontificia Universidad Católica de Chile). I have worked in telecommunications, financial services and heavy-equipment distribution, building SQL, Python and R pipelines, dashboards and models that turn data into decisions.
 
-I'm currently in **Australia** and **open to data analyst, business analyst and data science roles** (especially financial services) (Working Holiday visa, subclass 462, full work rights).
+I'm currently in **Australia** and **open to data analyst, business analyst and data science roles** (especially financial services).
 
 [LinkedIn](https://www.linkedin.com/in/rodolivaresa/) | [Email](mailto:rolivaresal@gmail.com) | [Portfolio](https://rolivaresia.github.io/) | [CV (PDF)](https://github.com/rolivaresIA/Curriculum/raw/main/Rodolfo_Olivares_CV.pdf)
 
